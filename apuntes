@@ -1,0 +1,8 @@
+APIS <- Stream|it -> Servidor -> Repo (Front)
+|    
+|-> Groq (Backend)
+ 
+IA ->  Machines Learning -> Funciones
+|-> Deep Learning -> Neuronal Network (peso)
+
+IA generativa (APIS)
