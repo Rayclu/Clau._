@@ -1,0 +1,41 @@
+Este es el resultado de haber ido a TalentoTech.
+Los profesores fueron Aguastina y Dalmiro,
+me da pena que esto termine porque estuvo copado y dentro de todo 
+me entretuve y aprendi cosas nuevas, que era el objetivo original q tenia.
+A su vez tambien se podría decir que quedé encantado de conocer a 
+a los compañeros que tuve, ojalá el destino nos vuelva a juntar a algunos de
+nosotros.
+
+Ahora, llendo al objetivo comun y corriente del README. 
+Mi chatBot tiene un problema que conviene solucionar manualmente pues
+no es un tema de codigo, sino estructural.
+
+Está contruido de la siguiente forma: 
+
+
+IA_Python -> Clau._ <-- este es el directorio de git, 
+			 donde tengo todo lo relacionado 
+			  al proyecto final.
+
+IA_Python -> Clau._ -> chat_bot <-- este es un directorio vacio
+  ''		''  -> apuntes, HelloTech, isPar (acá deberían de estar lo demás desafios q no hice)
+
+eTeoriaFunca <-- directorio con el codigo hecho x Dalmiro
+
+
+Ahora, y el problema? bueno, cuando se quiera probar el
+codigo (si se lo quiere probar) primero DEBEN MOVER EL 
+ARCHIVO 'main.py' A EL DIRECTORIO RAIZ O SEA IA_Python. 
+en caso de no mover este archivo y su directorio 
+.streamlit con los '.toml' correspondientes, 
+el chatBot NO FUNCIONARÁ, voy a dejar las configuraciones 
+.toml fuera de este directorio para que puedan ver 
+como me quedó, aclaro, lo hice funcional, no lindo, 
+despues de todo como yo les dije en la primer clase
+soy programador Backend, no se hacer los diseños.
+
+Habiendo dicho eso, estoy muy agradecido de haberlos 
+conocido y la verdad me gustaría quedar comunicado con
+algunos.....
+
+
